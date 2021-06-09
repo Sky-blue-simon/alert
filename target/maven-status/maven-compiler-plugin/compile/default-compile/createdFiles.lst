@@ -1,0 +1,14 @@
+lecture\ClassCanceled.class
+lecture\AbstractEvent$1.class
+lecture\config\kafka\KafkaProcessor.class
+lecture\PaymentCanceled.class
+lecture\PaymentApproved.class
+lecture\ClassRegistered.class
+lecture\AbstractEvent.class
+lecture\ClassModified.class
+lecture\CourseModified.class
+lecture\AlertApplication.class
+lecture\TextbookDeliveried.class
+lecture\PolicyHandler.class
+lecture\CourseDeleted.class
+lecture\CourseRegistered.class
